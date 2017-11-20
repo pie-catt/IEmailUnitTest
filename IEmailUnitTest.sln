@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEmailUnitTest", "IEmailUnitTest\IEmailUnitTest.csproj", "{9A4BAE02-D70C-473A-9778-7580AAE17259}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEmailUnitTest.Tests", "IEmailUnitTest.Tests\IEmailUnitTest.Tests.csproj", "{C49FA37E-2DCC-4668-AA80-6268F76B615E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9A4BAE02-D70C-473A-9778-7580AAE17259}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A4BAE02-D70C-473A-9778-7580AAE17259}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A4BAE02-D70C-473A-9778-7580AAE17259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C49FA37E-2DCC-4668-AA80-6268F76B615E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49FA37E-2DCC-4668-AA80-6268F76B615E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49FA37E-2DCC-4668-AA80-6268F76B615E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49FA37E-2DCC-4668-AA80-6268F76B615E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

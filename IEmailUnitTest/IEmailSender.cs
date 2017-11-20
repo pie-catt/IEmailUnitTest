@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace IEmailUnitTest
 {
-    public class Class1
+    public interface IEmailSender
     {
+       bool SendEmail
+                (string to, string body);
     }
+    
 }
